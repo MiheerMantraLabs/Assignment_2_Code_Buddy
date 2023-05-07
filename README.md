@@ -16,7 +16,7 @@
 
 ## Installation & setup
 
-- > Download the project from our [Git repository](https://www.laravel.com/).
+- > Download the project from our [Git repository](https://github.com/MiheerMantraLabs/Assignment_2_Code_Buddy).
 - > Extract the project to particular folder.
 - > Open <img src="https://img.shields.io/badge/Terminal------blue" alt="Terminal"> inside of project folder & run a this command : <img src="https://img.shields.io/badge/composer%20update-%20-lightgrey" alt="composer update">
 - > Once composer installed successfully, copy ***`.env.example`*** file and paste it as ***`.env`***  file.
